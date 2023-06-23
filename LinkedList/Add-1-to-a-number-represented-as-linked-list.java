@@ -1,14 +1,14 @@
-Ques: Join the most popular course on DSA. Master Skills & Become Employable by enrolling today! 
-A number N is represented in Linked List such that each digit corresponds to a node in linked list. You need to add 1 to it.
+// Ques: Join the most popular course on DSA. Master Skills & Become Employable by enrolling today! 
+// A number N is represented in Linked List such that each digit corresponds to a node in linked list. You need to add 1 to it.
 
-Input:
-LinkedList: 4->5->6
-Output: 457 
+// Input:
+// LinkedList: 4->5->6
+// Output: 457 
 
-Expected Time Complexity: O(N).
-Expected Auxiliary Space: O(1).
+// Expected Time Complexity: O(N).
+// Expected Auxiliary Space: O(1).
 
-Code:
+// Code:
 class Solution
 {
     public static Node addOne(Node head) 
